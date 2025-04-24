@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/8UWmpaO.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   𝗣𝗥𝗜𝗧𝗜 𝗫 𝗕𝗢𝗥𝗦𝗛𝗔 𝗖𝗢𝗣𝗬</h1>
+<img src="https://i.imgur.com/aDG7qeu.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   OWNER NOT FOUND</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am LIKHON %20BANGLADESHI- WEB DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
